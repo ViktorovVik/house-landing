@@ -15,12 +15,9 @@
       @include lg {
          justify-content: space-around;
       }
-
-      
    }
    
    &__image {
-
       img {
          object-fit: cover;
       }
